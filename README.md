@@ -1,1 +1,1 @@
-To run this project type 'nodemon index.js' in the terminal.
+To run this project type 'npm run dev' in the terminal.
